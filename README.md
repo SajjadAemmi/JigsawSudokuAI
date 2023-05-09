@@ -1,5 +1,7 @@
 # Jigsaw-Sudoku
 
+[![CMake](https://github.com/SajjadAemmi/Jigsaw-Sudoku/actions/workflows/cmake.yml/badge.svg)](https://github.com/SajjadAemmi/Jigsaw-Sudoku/actions/workflows/cmake.yml)
+
 Solve Jigsaw Sudoku using BackTracking &amp; CSP with C++
 
 Jigsaw Sudoku format is in `io/input/format.txt`
